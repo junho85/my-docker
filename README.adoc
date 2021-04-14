@@ -1,0 +1,6 @@
+= my-docker
+
+https://docs.docker.com/compose/gettingstarted/
+
+== docker-credential-gcloud 어쩌구 오류 발생 시
+https://junho85.pe.kr/1851[docker-compose - docker.credentials.errors.InitializationError: docker-credential-gcloud not installed or not available in PATH 오류 해결 2021.03.07]
